@@ -1,6 +1,6 @@
 # Algorithm-Specialization
 
-In this repo, I put my courses notes and assignment, implemented in both Python and Java, in the **Algorithms** specialization from *Stanford University* on Coursera.
+In this repo, I put my courses notes and assignment, implemented in both Python and Java, in the **Algorithms** specialization from *Stanford University* on Coursera. [Official Certifcate Link](https://coursera.org/share/b2b02be87606278a1a235ba085b0a9dc)
 
 ## Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 1. Karatsuba Multiplication
